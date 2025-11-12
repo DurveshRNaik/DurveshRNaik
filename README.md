@@ -9,7 +9,7 @@ I'm a software developer who enjoys building useful tools and learning new techn
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/durvesh-naik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="durvesh naik" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/durvesh-naik-a30b35254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="durvesh naik" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
