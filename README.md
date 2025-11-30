@@ -6,12 +6,12 @@ I'm a software developer who enjoys building useful tools and learning new techn
 Hello everyone, I'm an enthusiastic Full Stack Developer passionate about transforming ideas into impactful digital experiences through clean code, creative problem-solving, and modern technology. I have completed my engineering in Information Technology from KCCEMSR, Thane. Also I have expertise in Java, Spring Boot, React, and MySQL, I enjoy building end-to-end solutions that are both functional and user-friendly.
 From developing AI-driven tools to creating immersive Augmented Reality (AR) applications, my journey in technology has been fueled by a desire to innovate and make a real-world difference. I believe software development is not just about writing code, it’s about designing intelligent systems that simplify life, enhance productivity, and inspire creativity.
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/durvesh-naik-a30b35254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="durvesh naik" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools I have worked on:</h3>
+## Languages and Tools I have worked on:
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
